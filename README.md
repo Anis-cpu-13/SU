@@ -15,10 +15,10 @@ The goal of the game is to fill in the empty cells of the grid with numbers from
 
 To enter a number in a cell, click on the cell and type the number on your keyboard. If the number you entered is correct, the cell will turn green. If it's incorrect, the cell will turn red. You can also use the "Aide" button to fill in some of the empty cells, or the "Résoudre" button to fill in all the cells with the correct numbers.
 
- ## Limitations
+## Limitations
 
 Note that this game does not include a solver that can generate or solve Sudoku puzzles automatically. Therefore, the game can only be played with a pre-defined puzzle that is hard-coded in the code.
 
-## Acknowledgments
+## Acknowledgments
 
-This game was created as a programming exercise by [insert your name here]. The code is inspired by various online resources and tutorials, including [insert the names of the resources here].
+This game was created as a programming exercise. The code is inspired by various online resources and tutorials, including [https://www.baeldung.com/java-sudoku].
