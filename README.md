@@ -19,6 +19,10 @@ To enter a number in a cell, click on the cell and type the number on your keybo
 
 Note that this game does not include a solver that can generate or solve Sudoku puzzles automatically. Therefore, the game can only be played with a pre-defined puzzle that is hard-coded in the code.
 
+## Demo 
+
+![Démo du jeu Sudoku](Demo.png)
+
 ## Acknowledgments
 
 This game was created as a programming exercise. The code is inspired by various online resources and tutorials, including [https://www.baeldung.com/java-sudoku].
